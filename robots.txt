@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubipuogu.github.io/sitemap_index.ubipuogu
